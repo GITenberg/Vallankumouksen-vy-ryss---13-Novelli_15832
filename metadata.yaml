@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5657
     wikipedia: http://fi.wikipedia.org/wiki/Elvira_Willman-Eloranta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15832#Vallankumouksen-vy-ryss---13-Novelli
 gutenberg_issued: '2005-05-16'
 gutenberg_type: Text
 identifiers:
