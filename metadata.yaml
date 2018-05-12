@@ -1,0 +1,30 @@
+_repo: Vallankumouksen-vy-ryss---13-Novelli_15832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willman, Elvira
+    aliases:
+    - Willman-Eloranta, Elvira
+    - Willman, Agnes Elvira Maria
+    birthdate: 1875
+    deathdate: 1925
+    gutenberg_agent_id: '5657'
+    url: http://www.gutenberg.org/2009/agents/5657
+    wikipedia: http://fi.wikipedia.org/wiki/Elvira_Willman-Eloranta
+description: ''
+gutenberg_issued: '2005-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15832'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- Fiction'
+- !lcc 'PH'
+title: "Vallankumouksen vyöryssä\r\nNovelli"
+url: http://www.gutenberg.org/ebooks/15832
